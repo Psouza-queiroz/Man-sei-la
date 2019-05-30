@@ -20,7 +20,7 @@ namespace Estacionamento1.Controllers
                 modelo: form["Modelo"],
                 marca: form["Marca"],
                 placa: form["Placa"],
-                dataEntrada: DateTime.Parse(form["DatadeEntrada"])
+                dataEntrada: DateTime.Parse(form["dataEntrada"])
                 
             );
 

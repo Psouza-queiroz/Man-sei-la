@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38128442813\\Documents\\2019\\Estacionamento1.MVC\\Ex2WebMVC.csproj",
+      "projectUniqueName": "c:\\Users\\38128442813\\Documents\\2019\\Estacionamento1.MVC\\Man-sei-la\\Ex2WebMVC.csproj",
       "projectName": "Ex2WebMVC",
-      "projectPath": "C:\\Users\\38128442813\\Documents\\2019\\Estacionamento1.MVC\\Ex2WebMVC.csproj",
+      "projectPath": "c:\\Users\\38128442813\\Documents\\2019\\Estacionamento1.MVC\\Man-sei-la\\Ex2WebMVC.csproj",
       "packagesPath": "C:\\Users\\38128442813\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38128442813\\Documents\\2019\\Estacionamento1.MVC\\obj\\",
+      "outputPath": "c:\\Users\\38128442813\\Documents\\2019\\Estacionamento1.MVC\\Man-sei-la\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
